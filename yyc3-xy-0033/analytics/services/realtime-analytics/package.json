@@ -1,0 +1,42 @@
+{
+  "name": "yyc3-realtime-analytics",
+  "version": "1.0.0",
+  "description": "YYC³ 实时分析微服务 - 负责实时数据处理、流式计算和实时指标计算",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun src/index.ts",
+    "build": "bun build src/index.ts --target bun --outdir dist",
+    "test": "bun test",
+    "lint": "bunx eslint src/**/*.ts",
+    "docker:build": "docker build -t yyc3-realtime-analytics .",
+    "docker:run": "docker run -p 8101:8101 yyc3-realtime-analytics"
+  },
+  "keywords": ["yyc3", "microservice", "analytics", "realtime", "kafka", "flink", "clickhouse"],
+  "author": "YYC³ Team",
+  "license": "MIT",
+  "dependencies": {
+    "@hono/node-server": "^1.19.7",
+    "hono": "^4.6.3",
+    "consul": "^0.40.0",
+    "prom-client": "^15.0.0",
+    "winston": "^3.11.0",
+    "zod": "^3.22.4",
+    "kafkajs": "^2.2.4",
+    "@clickhouse/client": "^0.2.0",
+    "redis": "^4.6.10",
+    "ws": "^8.14.2",
+    "@types/ws": "^8.5.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "typescript": "^5.0.0",
+    "bun-types": "^1.0.0",
+    "eslint": "^8.52.0",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "yyc3-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "YYC³ 数据分析仪表板 - 实时数据可视化、业务洞察和智能报表展示",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "14.2.33",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "@types/node": "20.9.0",
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "typescript": "5.0.0",
+    "tailwindcss": "4.1.9",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.31",
+    "recharts": "^2.8.0",
+    "echarts": "^5.4.3",
+    "echarts-for-react": "^3.0.2",
+    "d3": "^7.8.5",
+    "@types/d3": "^7.4.3",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.294.0",
+    "date-fns": "^2.30.0",
+    "swr": "^2.2.4",
+    "socket.io-client": "^4.7.4",
+    "@tanstack/react-query": "^5.8.4",
+    "zustand": "^4.4.7",
+    "react-hook-form": "^7.47.0",
+    "@hookform/resolvers": "^3.3.2",
+    "zod": "^3.22.4",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.54.0",
+    "eslint-config-next": "14.0.3",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,175 @@
+/* 全局基础样式 */
+body {
+  background-color: #ebf5fb;
+  color: #37474f;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+/* 首页柴犬摇尾巴 */
+@keyframes wag {
+  0%,
+  100% {
+    transform: rotate(-5deg);
+  }
+  50% {
+    transform: rotate(5deg);
+  }
+}
+
+.wag-tail {
+  animation: wag 2s infinite ease-in-out;
+  transform-origin: bottom center;
+}
+
+/* 首页卡片轻微浮动 */
+.float-anim {
+  transition: transform 0.3s ease;
+}
+
+.float-anim:hover {
+  transform: translateY(-5px);
+}
+
+/* 底部导航公共样式 */
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  color: #94a3b8; /* slate-400 */
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item:hover {
+  background-color: #e5e7eb; /* slate-100 */
+  color: #475569; /* slate-600 */
+}
+
+/* 当前激活的导航 */
+.nav-active {
+  background-color: #e0f7fa;
+  color: #0288d1;
+  font-weight: 700;
+}
+
+/* 作业 Tab 激活 */
+.tab-active {
+  background-color: #ffffff;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -2px rgba(0, 0, 0, 0.06);
+  font-weight: bold;
+  color: #3b82f6; /* 蓝色 */
+}
+
+/* 公益 Tab 激活 */
+.tab-active-activities {
+  background-color: #ffffff;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -2px rgba(0, 0, 0, 0.06);
+  font-weight: bold;
+  color: #10b981; /* 绿色 */
+}
+
+/* 徽章动画 */
+.badge-unlocked {
+  transition: transform 0.2s ease;
+  box-shadow: 0 0 15px rgba(255, 204, 0, 0.4);
+}
+
+.badge-unlocked:hover {
+  transform: scale(1.05) rotate(1deg);
+}
+
+/* 消息未读背景 */
+.unread-bg {
+  background-color: #fffde7;
+}
+
+/* 隐藏横向滚动条但保留滚动（课程分类条） */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* 自定义开关样式（设置页） */
+.toggle-switch {
+  width: 44px;
+  height: 24px;
+  border-radius: 9999px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  position: relative;
+}
+
+.toggle-switch-dot {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* 开关 ON / OFF */
+.toggle-switch.on {
+  background-color: #4caf50;
+}
+
+.toggle-switch.on .toggle-switch-dot {
+  transform: translateX(20px);
+}
+
+.toggle-switch.off {
+  background-color: #b0bec5;
+}
+
+/* 统一 page-section 的最小高度，防止切换时高度闪烁 */
+.page-section {
+  min-height: calc(100vh - 160px); /* 粗略减掉 header + nav 高度 */
+}
+/* 首页今日计划：勾选效果 */
+.daily-plan-item .daily-plan-check i {
+  display: none;
+}
+
+.daily-plan-item.completed .daily-plan-text {
+  text-decoration: line-through;
+  color: #94a3b8; /* slate-400 */
+}
+
+.daily-plan-item.completed .daily-plan-check {
+  background-color: #22c55e; /* green-500 */
+  border-color: #22c55e;
+  color: #ffffff;
+}
+
+.daily-plan-item.completed .daily-plan-check i {
+  display: inline-block;
+}
+
+/* 课程筛选按钮高亮态（不改原 bg，只加描边） */
+.course-filter-active {
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* 护眼模式：整体偏暖色 */
+body.eye-mode {
+  background-color: #fff7ed; /* orange-50 */
+}
+
+body.eye-mode .page-section {
+  background-color: transparent;
+}

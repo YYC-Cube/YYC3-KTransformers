@@ -1,0 +1,227 @@
+{
+  "system_info": {
+    "system_name": "沫语成长守护体系",
+    "current_year": 2025,
+    "character": "小龙女沫语（射手座·成长守护使）",
+    "cultural_base": "河洛文化·古都洛阳",
+    "cultural_symbols": [
+      "牡丹国色",
+      "言启智云",
+      "语枢未来",
+      "明珠使者",
+      "智能同行",
+      "河洛新章"
+    ],
+    "age_stages": 22,
+    "development_dimensions": 5,
+    "role_core_items": 4,
+    "system_version": "2.0.0",
+    "five_highs": {
+      "auto_backup_enabled": true,
+      "backup_interval_hours": 24,
+      "health_check_interval_minutes": 5,
+      "auto_recovery_enabled": true,
+      "max_retry_attempts": 3
+    },
+    "five_standards": {
+      "coding_standards": "PEP8",
+      "api_standards": "RESTful",
+      "document_standards": "Markdown",
+      "naming_conventions": "snake_case"
+    },
+    "five_transformations": {
+      "auto_test_enabled": true,
+      "auto_deploy_enabled": false,
+      "auto_monitor_enabled": true,
+      "auto_backup_enabled": true
+    }
+  },
+  "system_health": {
+    "system_status": "healthy",
+    "uptime": 0,
+    "memory_usage": {},
+    "cache_hit_rate": 0,
+    "cache_size": 0,
+    "total_operations": 0,
+    "error_count": 0
+  },
+  "milestone_summary": {
+    "total_ages": 22,
+    "total_milestones": 88,
+    "total_completed": 0,
+    "by_age": [
+      {
+        "age": 0,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 1,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 2,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 3,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 4,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 5,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 6,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 7,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 8,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 9,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 10,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 11,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 12,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 13,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 14,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 15,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 16,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 17,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 18,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 19,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 20,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      },
+      {
+        "age": 21,
+        "total_milestones": 4,
+        "completed_milestones": 0,
+        "completion_rate": "0.0%",
+        "records": []
+      }
+    ]
+  },
+  "cache_stats": {
+    "size": 0,
+    "max_size": 1000,
+    "usage_percent": 0.0,
+    "hits": 0,
+    "misses": 0,
+    "hit_rate": 0
+  },
+  "monitor_stats": {
+    "is_healthy": true,
+    "health_status": "healthy",
+    "last_check": null,
+    "uptime": 0,
+    "memory_usage": {},
+    "total_operations": 0,
+    "error_count": 0
+  },
+  "export_timestamp": "2025-12-28T01:41:14.100500"
+}

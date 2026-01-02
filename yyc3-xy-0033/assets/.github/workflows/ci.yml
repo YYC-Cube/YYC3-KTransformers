@@ -1,0 +1,69 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      mongodb:
+        image: mongo:6
+        ports:
+          - 27017:27017
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          npm ci
+          cd apps/server && npm ci
+          cd ../web && npm ci
+
+      - name: Lint
+        run: |
+          cd apps/server && npm run lint
+          cd ../web && npm run lint
+
+      - name: Type check
+        run: |
+          cd apps/server && npm run type-check
+          cd ../web && npm run type-check
+
+      - name: Test
+        run: |
+          cd apps/server && npm test -- --coverage
+          cd ../web && npm test -- --coverage
+        env:
+          MONGO_URI: mongodb://localhost:27017/test
+
+      - name: Build
+        run: |
+          npm run build
+
+      - name: Upload coverage
+        uses: codecov/codecov-action@v3
+        with:
+          files: ./apps/server/coverage/lcov.info,./apps/web/coverage/lcov.info
+
+  deploy:
+    needs: test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Deploy to production
+        run: echo "Deploy to production"

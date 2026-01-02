@@ -1,0 +1,69 @@
+# YYC³ AI小语智能成长守护系统 - Prometheus 配置
+# Intelligent Pluggable Mobile AI System - Prometheus Configuration
+# Phase 1 Week 7-8: 监控与日志系统
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    cluster: 'yyc3-xy-ai'
+    environment: 'production'
+
+rule_files:
+  - "alerts.yml"
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: []
+
+scrape_configs:
+  # Prometheus 自身监控
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+    scrape_interval: 5s
+
+  # 主应用监控
+  - job_name: 'yyc3-main-app'
+    static_configs:
+      - targets: ['app:1229']
+    metrics_path: '/api/metrics'
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # Node Exporter (系统监控)
+  - job_name: 'node-exporter'
+    static_configs:
+      - targets: ['node-exporter:9100']
+    scrape_interval: 15s
+
+  # Nginx 监控
+  - job_name: 'nginx'
+    static_configs:
+      - targets: ['nginx:9113']
+    scrape_interval: 15s
+
+  # PostgreSQL 监控
+  - job_name: 'postgres-exporter'
+    static_configs:
+      - targets: ['postgres-exporter:9187']
+    scrape_interval: 15s
+
+  # Redis 监控
+  - job_name: 'redis-exporter'
+    static_configs:
+      - targets: ['redis-exporter:9121']
+    scrape_interval: 15s
+
+  # Docker 容器监控
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets: ['cadvisor:8080']
+    scrape_interval: 15s
+
+  # Elasticsearch 监控
+  - job_name: 'elasticsearch-exporter'
+    static_configs:
+      - targets: ['elasticsearch-exporter:9114']
+    scrape_interval: 15s

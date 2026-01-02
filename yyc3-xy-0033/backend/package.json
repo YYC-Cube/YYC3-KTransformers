@@ -1,0 +1,70 @@
+{
+  "name": "yyc3-ai-xiaoyu-backend",
+  "version": "1.0.0",
+  "description": "YYC³ AI小语项目后端服务",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "build": "bun build src/index.ts --outdir dist --target node",
+    "start": "bun dist/index.js",
+    "test": "bun test",
+    "lint": "bunx eslint src --ext .ts",
+    "type-check": "bunx tsc --noEmit"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4",
+    "morgan": "^1.10.0",
+    "dotenv": "^16.3.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "joi": "^17.11.0",
+    "winston": "^3.11.0",
+    "rate-limiter-flexible": "^4.0.1",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.32.6",
+    "node-cron": "^3.0.3",
+    "redis": "^4.6.10",
+    "pg": "^8.11.3",
+    "knex": "^3.0.1",
+    "uuid": "^9.0.1",
+    "nodemailer": "^6.9.7",
+    "openai": "^4.20.1",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "@types/compression": "^1.7.5",
+    "@types/morgan": "^1.9.9",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/multer": "^1.4.11",
+    "@types/node-cron": "^3.0.11",
+    "@types/pg": "^8.10.7",
+    "@types/uuid": "^9.0.7",
+    "@types/nodemailer": "^6.4.14",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "eslint": "^8.54.0",
+    "typescript": "^5.0.0",
+    "bun-types": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "bun": ">=1.0.0"
+  },
+  "keywords": [
+    "ai",
+    "children",
+    "education",
+    "growth-tracking",
+    "nodejs",
+    "typescript",
+    "express"
+  ],
+  "author": "YYC³ Development Team",
+  "license": "MIT"
+}

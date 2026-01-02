@@ -1,0 +1,1084 @@
+======================================
+YYC³ 文档格式统一性修复脚本
+开始时间: 2025-12-29 14:47:33
+======================================
+
+开始处理文档目录...
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类
+======================================
+发现       78 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构决策记录集.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构设计文档索引.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-监控架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-前端架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-部署架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-总体架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-文档质量审核报告.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-智能架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-安全架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-接口架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-微服务架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-数据架构详细设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构设计文档审核报告.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-全生命周期链路智能守护完善计划.md
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-AI服务集成架构文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用全局语音交互弹窗控制系统.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-AI浮窗为中心全局语音交互弹窗控制系统.md
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用UI-UX设计规划补充文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用UI-UX全量设计规划文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-API网关设计文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-Figma-UI-UX重构设计使用说明.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-UI-UX重构文档使用说明.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构评审 Checklist.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-安全加固实施手册.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-性能调优实战技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-容器化部署最佳实践.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-微服务拆分避坑指南.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构演进与重构策略.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-监控告警配置实战指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-故障排查与应急响应指南.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构设计绘图规范与工具指南.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-AI架构集成性能优化技巧.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-数据架构需求规划文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-需求文档标准化编写指南.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-智能化应用业务架构说明书.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-智能化需求优先级排序方法.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-智能化能力需求规格说明书.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-需求阶段架构可行性分析报告.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-跨部门需求协同沟通技巧手册.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-编码规范手册.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-版本控制最佳实践.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-开发效率提升技巧集.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-中间件集成架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-代码架构实现说明书.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-数据访问层架构实现文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-常见开发架构问题解决方案.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-AI模型开发调优技巧.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-AI模型开发与集成文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-API接口实现文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-部署问题排查指南.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-部署架构实施文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-灰度发布风险控制技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-灰度发布架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-多环境部署架构差异文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-CI_CD流水线架构文档.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-CI_CD流水线搭建与优化技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-Docker容器化部署技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-K8s部署运维技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-运维手册.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-监控告警配置技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-系统扩容架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-智能运维架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-灾备架构运维文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-运维架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-灾备演练与恢复技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-智能运维平台操作指南.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-系统性能优化运维技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-日志分析与问题定位技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-架构资产沉淀文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-知识复用与沉淀技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-文档归档规范与技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-系统迭代架构规划文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-项目文档归档架构说明.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-架构评审与迭代规划技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-架构设计类-快速索引.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-架构设计类-文档索引.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-快速入门.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-项目概述.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类
+======================================
+发现        9 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-性能测试架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-安全测试架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-测试架构设计文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-AI专项测试架构文档.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-性能测试调优技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-测试用例设计技巧手册.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-测试缺陷管理规范与技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-自动化测试脚本编写指南.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-AI测试数据准备与标注技巧.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类
+======================================
+发现       15 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-全量文档架构.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-分析建议文档模版.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-实施总结文档模版.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-项目验收文档模版.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-技术评审文档模版.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-架构类文档内容模板.md
+  ✓ 添加标准文件头
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-技巧类文档内容模板.md
+  ✓ 添加标准文件头
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-智能编程基础标准模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-文档全生命周期管理架构.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-全链路文档分类与整理方案.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-智能编程文档管理标准要求规范.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-审计报告.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-执行分析报告.md
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-架构文档交叉审核报告.md
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-文档对齐与全链路闭环审核报告.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类
+======================================
+发现       20 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-核心信息.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-成长时间轴.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-核心信息补充.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-家庭教育理念.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-1岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-2岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-3岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-4岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-5岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-6岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-7岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-8岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-9岁年度总结.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-四岁童趣时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-两岁学步时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-一岁萌芽时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-三岁入园时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-五岁探索时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-六岁衔接时代寄语.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/YYC3-XY-成长记录类-文档索引.md
+  ✓ 添加标准文件头
+  ✓ 文件已修复
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类
+======================================
+发现        4 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/00-项目介绍/YYC3-XY-项目介绍-README.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/01-优化报告/YYC3-XY-优化报告-UI系统分层式优化实现报告.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/01-优化报告/YYC3-XY-优化报告-全页面UI系统分层式优化设计.md
+  ✓ 添加品牌信息
+  ✓ 文件已修复
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/02-审核报告/YYC3-XY-审核报告-项目标准化审核报告.md
+  ✓ 添加标准文件头
+  ✓ 添加品牌信息
+  ✓ 添加文档尾部信息
+  ✓ 文件已修复
+
+======================================
+修复完成统计
+======================================
+修复文件总数: 0
+  - 文件头注释修复: 0
+  - 品牌信息修复: 0
+  - 文档结构修复: 0
+  - 尾部信息修复: 0
+跳过文件数: 0
+完成时间: 2025-12-29 14:47:36
+======================================
+修复报告已生成: /Users/yanyu/yyc3-xiaoyu-ai/docs/format_repair_report.md
+详细日志已保存: /Users/yanyu/yyc3-xiaoyu-ai/docs/format_repair_log.txt
+
+✓ 文档格式统一性修复完成！
+======================================
+YYC³ 文档格式统一性修复脚本
+开始时间: 2025-12-29 14:50:02
+======================================
+
+开始处理文档目录...
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类
+======================================
+发现       78 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构决策记录集.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构设计文档索引.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-监控架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-前端架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-部署架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-总体架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-文档质量审核报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-智能架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-安全架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-接口架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-微服务架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-数据架构详细设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-架构设计文档审核报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-全生命周期链路智能守护完善计划.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-AI服务集成架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用全局语音交互弹窗控制系统.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-AI浮窗为中心全局语音交互弹窗控制系统.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用UI-UX设计规划补充文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-小语AI应用UI-UX全量设计规划文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-API网关设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-Figma-UI-UX重构设计使用说明.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/01-架构类/YYC3-XY-架构类-UI-UX重构文档使用说明.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构评审 Checklist.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-安全加固实施手册.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-性能调优实战技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-容器化部署最佳实践.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-微服务拆分避坑指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构演进与重构策略.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-监控告警配置实战指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-故障排查与应急响应指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-架构设计绘图规范与工具指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/02-技巧类/YYC3-XY-技巧类-AI架构集成性能优化技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-数据架构需求规划文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-需求文档标准化编写指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-智能化应用业务架构说明书.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-智能化需求优先级排序方法.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-智能化能力需求规格说明书.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-架构类-需求阶段架构可行性分析报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/03-需求规划类/YYC3-XY-技巧类-跨部门需求协同沟通技巧手册.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-编码规范手册.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-版本控制最佳实践.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-开发效率提升技巧集.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-中间件集成架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-代码架构实现说明书.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-数据访问层架构实现文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-常见开发架构问题解决方案.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-技巧类-AI模型开发调优技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-AI模型开发与集成文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/04-开发实施类/YYC3-XY-架构类-API接口实现文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-部署问题排查指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-部署架构实施文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-灰度发布风险控制技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-灰度发布架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-多环境部署架构差异文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-架构类-CI_CD流水线架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-CI_CD流水线搭建与优化技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-Docker容器化部署技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/05-部署发布类/YYC3-XY-技巧类-K8s部署运维技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-运维手册.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-监控告警配置技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-系统扩容架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-智能运维架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-灾备架构运维文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-架构类-运维架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-灾备演练与恢复技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-智能运维平台操作指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-系统性能优化运维技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/06-运维运营类/YYC3-XY-技巧类-日志分析与问题定位技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-架构资产沉淀文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-知识复用与沉淀技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-文档归档规范与技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-系统迭代架构规划文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-架构类-项目文档归档架构说明.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/07-归类迭代类/YYC3-XY-技巧类-架构评审与迭代规划技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-架构设计类-快速索引.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-架构设计类-文档索引.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-快速入门.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/01-架构设计类/YYC3-XY-项目概述.md
+  - 文件格式已符合标准，跳过
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类
+======================================
+发现        9 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-性能测试架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-安全测试架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-测试架构设计文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/01-架构类/YYC3-XY-架构类-AI专项测试架构文档.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-性能测试调优技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-测试用例设计技巧手册.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-测试缺陷管理规范与技巧.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-自动化测试脚本编写指南.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/02-测试验证类/02-技巧类/YYC3-XY-技巧类-AI测试数据准备与标注技巧.md
+  - 文件格式已符合标准，跳过
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类
+======================================
+发现       15 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-全量文档架构.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-分析建议文档模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-实施总结文档模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-项目验收文档模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-技术评审文档模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-架构类文档内容模板.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-技巧类文档内容模板.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-智能编程基础标准模版.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-文档全生命周期管理架构.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-全链路文档分类与整理方案.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/01-模版规范类/YYC3-XY-模版规范类-智能编程文档管理标准要求规范.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-审计报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-执行分析报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-架构文档交叉审核报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/03-文档规范类/02-审核报告类/YYC3-XY-审核报告类-文档对齐与全链路闭环审核报告.md
+  - 文件格式已符合标准，跳过
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类
+======================================
+发现       20 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-核心信息.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-成长时间轴.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-核心信息补充.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/01-成长体系/YYC3-XY-成长体系-家庭教育理念.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-1岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-2岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-3岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-4岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-5岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-6岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-7岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-8岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/02-年龄记录/YYC3-XY-年龄记录-9岁年度总结.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-四岁童趣时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-两岁学步时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-一岁萌芽时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-三岁入园时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-五岁探索时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/03-爱之细语/YYC3-XY-爱之细语类-六岁衔接时代寄语.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/04-成长记录类/YYC3-XY-成长记录类-文档索引.md
+  - 文件格式已符合标准，跳过
+
+======================================
+处理目录: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类
+======================================
+发现        4 个文档文件
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/00-项目介绍/YYC3-XY-项目介绍-README.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/01-优化报告/YYC3-XY-优化报告-UI系统分层式优化实现报告.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/01-优化报告/YYC3-XY-优化报告-全页面UI系统分层式优化设计.md
+  - 文件格式已符合标准，跳过
+
+处理文件: /Users/yanyu/yyc3-xiaoyu-ai/docs/05-项目概述类/02-审核报告/YYC3-XY-审核报告-项目标准化审核报告.md
+  - 文件格式已符合标准，跳过
+
+======================================
+修复完成统计
+======================================
+修复文件总数: 0
+  - 文件头注释修复: 0
+  - 品牌信息修复: 0
+  - 文档结构修复: 0
+  - 尾部信息修复: 0
+完成时间: 2025-12-29 14:50:04
+======================================
+修复报告已生成: /Users/yanyu/yyc3-xiaoyu-ai/docs/format_repair_report.md
+详细日志已保存: /Users/yanyu/yyc3-xiaoyu-ai/docs/format_repair_log.txt
+
+✓ 文档格式统一性修复完成！

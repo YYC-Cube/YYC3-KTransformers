@@ -1,0 +1,27 @@
+"use strict";(()=>{var e={};e.id=5860,e.ids=[5860],e.modules={20399:e=>{e.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},30517:e=>{e.exports=require("next/dist/compiled/next-server/app-route.runtime.prod.js")},92048:e=>{e.exports=require("fs")},19801:e=>{e.exports=require("os")},55315:e=>{e.exports=require("path")},83390:(e,r,t)=>{t.r(r),t.d(r,{originalPathname:()=>d,patchFetch:()=>g,requestAsyncStorage:()=>p,routeModule:()=>c,serverHooks:()=>m,staticGenerationAsyncStorage:()=>h});var o={};t.r(o),t.d(o,{POST:()=>l});var s=t(49303),n=t(88716),a=t(60670),i=t(50984),u=t(44890);async function l(e){try{let{childName:r,childAge:t,stageId:o,stageName:s,scores:n}=await e.json(),a=function(e){let r={};for(let[t,o]of Object.entries(e)){let e=o>=90?95:o>=80?85:o>=70?70:o>=60?50:o>=50?30:15;r[t]={score:o,level:o>=85?"优秀":o>=70?"良好":o>=55?"正常":o>=40?"待发展":"需关注",percentile:e,description:o>=85?"在同龄儿童中表现突出":o>=70?"发展状况良好，符合预期":o>=55?"发展正常，可适当加强":o>=40?"有较大成长空间":"建议寻求专业指导"}}return r}(n),u=function(e){let r=Object.values(e).map(e=>e.score),t=r.reduce((e,r)=>e+r,0)/r.length;return t>=85?"发展良好":t>=70?"发展正常":t>=55?"需要关注":"建议咨询专业人士"}(a),{text:l}=await (0,i._4)({model:"openai/gpt-4o-mini",system:`你是YYC\xb3 AI小语成长守护系统的"守护者"角色，专注于儿童发展评估。
+你的任务是基于评估数据生成专业、温暖、有建设性的发展报告。
+
+报告要求：
+1. 基于WHO、CDC等权威标准进行分析
+2. 强调发展的个体差异性，避免制造焦虑
+3. 提供具体、可操作的建议
+4. 语言温暖专业，充满关怀
+5. 结构清晰：优势→待发展→建议→展望`,prompt:`请为${r}（${t}个月龄，处于${s}）生成发展评估报告。
+
+评估数据：
+${JSON.stringify(a,null,2)}
+
+总体发展水平：${u}
+
+请生成包含以下部分的报告：
+1. 【发展亮点】本阶段表现突出的2-3个方面
+2. 【发展优势】各维度的优势分析
+3. 【成长空间】需要关注和支持的方面
+4. 【专业建议】针对性的促进发展建议（每个维度1-2条）
+5. 【家庭活动】推荐的亲子活动（3-5个）
+6. 【发展展望】对下一阶段的准备建议
+
+注意：
+- 避免使用"落后""问题""缺陷"等负面词汇
+- 用"成长空间""发展机会""可以更好"等正向表达
+- 强调每个孩子发展节奏不同是正常的`}),c={id:`report_${Date.now()}`,childName:r,childAge:t,stageId:o,stageName:s,assessmentDate:new Date().toISOString(),dimensionScores:a,overallLevel:u,aiAnalysis:l,recommendations:function(e){let r=e.split("\n"),t=[],o=!1;for(let e of r){if(e.includes("专业建议")||e.includes("家庭活动")){o=!0;continue}e.includes("【")&&o&&(o=!1),o&&e.trim().startsWith("-")&&t.push(e.trim().substring(1).trim())}return t.slice(0,10)}(l),nextSteps:function(e,r){let t=["定期进行发展评估，追踪成长变化","保持与孩子的高质量陪伴时间","鼓励探索和尝试新事物"];for(let[e,o]of Object.entries(r).sort((e,r)=>e[1].score-r[1].score).slice(0,2))o.score<70&&t.push(`重点关注${e}发展，增加相关活动`);return t}(0,a)};return Response.json(c)}catch(e){return(0,u.eK)(e,{component:"AssessmentReportAPI",action:"generateReport",endpoint:"/api/ai/assessment-report"}),Response.json({error:"报告生成失败"},{status:500})}}let c=new s.AppRouteRouteModule({definition:{kind:n.x.APP_ROUTE,page:"/api/ai/assessment-report/route",pathname:"/api/ai/assessment-report",filename:"route",bundlePath:"app/api/ai/assessment-report/route"},resolvedPagePath:"/Users/yanyu/yyc3-xiaoyu/yyc3-xiaoyu-unified/app/api/ai/assessment-report/route.ts",nextConfigOutput:"",userland:o}),{requestAsyncStorage:p,staticGenerationAsyncStorage:h,serverHooks:m}=c,d="/api/ai/assessment-report/route";function g(){return(0,a.patchFetch)({serverHooks:m,staticGenerationAsyncStorage:h})}},44890:(e,r,t)=>{t.d(r,{eK:()=>n});class o{constructor(){this.errorQueue=[],this.isOnline=!0,this.maxQueueSize=50}static getInstance(){return o.instance||(o.instance=new o),o.instance}reportError(e,r){let t={error:e,context:r,timestamp:new Date().toISOString(),userAgent:"Server",url:"Unknown"};this.isOnline?this.sendErrorReport(t):this.queueErrorReport(t)}async sendErrorReport(e){try{let r=await fetch("http://localhost:1228/api/error-report",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({error:{message:e.error.message,stack:e.error.stack,name:e.error.name},context:e.context,userAgent:e.userAgent,url:e.url,timestamp:e.timestamp})});if(!r.ok)throw Error(`HTTP error! status: ${r.status}`);console.log("Error report sent successfully")}catch(r){console.warn("Failed to send error report, queuing for later:",r),this.queueErrorReport(e)}}queueErrorReport(e){this.errorQueue.push(e),this.errorQueue.length>this.maxQueueSize&&this.errorQueue.shift(),this.saveErrorQueueToStorage()}async flushErrorQueue(){if(0===this.errorQueue.length)return;let e=[...this.errorQueue];for(let r of(this.errorQueue=[],e))try{await this.sendErrorReport(r)}catch(e){console.warn("Failed to send queued error report:",e),this.errorQueue.push(r)}0===this.errorQueue.length&&this.clearErrorQueueFromStorage()}saveErrorQueueToStorage(){try{localStorage.setItem("yyc3_error_queue",JSON.stringify(this.errorQueue))}catch(e){console.warn("Failed to save error queue to localStorage:",e)}}clearErrorQueueFromStorage(){try{localStorage.removeItem("yyc3_error_queue")}catch(e){console.warn("Failed to clear error queue from localStorage:",e)}}loadErrorQueueFromStorage(){try{let e=localStorage.getItem("yyc3_error_queue");e&&(this.errorQueue=JSON.parse(e))}catch(e){console.warn("Failed to load error queue from localStorage:",e)}}getErrorStats(){return{totalErrors:this.errorQueue.length,queuedErrors:this.errorQueue.length,isOnline:this.isOnline}}clearErrors(){this.errorQueue=[],this.clearErrorQueueFromStorage()}}let s=o.getInstance(),n=(e,r)=>{s.reportError(e,r)}},49303:(e,r,t)=>{e.exports=t(30517)}};var r=require("../../../../webpack-runtime.js");r.C(e);var t=e=>r(r.s=e),o=r.X(0,[8948,1585,984],()=>t(83390));module.exports=o})();
