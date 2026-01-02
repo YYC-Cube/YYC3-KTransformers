@@ -2,7 +2,7 @@
 
 # YYC³ 智能插拔式移动AI系统
 
-![YYC³ Banner](public/git_1800_450-5.png)
+![YYC³ Banner](public/git_1800_400-5.png)
 
 **Intelligent Pluggable Mobile AI System - 0-3岁儿童智能成长守护体系**
 
